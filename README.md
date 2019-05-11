@@ -2,7 +2,8 @@
 <p>Open source library used for real-time web functionality. which enables enables server-side code to push content to clients instantly.</p>
 <p>Mainly used for
   <ul>
-    <li> Chat room kind of requirements </li>
+    <li>SignalR is a suitable technology to create chat applications or real-time dashboards which needs duplex communication between clients and the server. </li>
+    
     <li>Apps that require high frequency updates from the server. Examples are gaming, social networks, voting, auction, maps, and GPS apps. </li> 
     <li>Dashboards and monitoring apps. Examples include company dashboards, instant sales updates, or travel alerts.</li>
     <li>Collaborative apps. Whiteboard apps and team meeting software are examples of collaborative apps. </li> 
